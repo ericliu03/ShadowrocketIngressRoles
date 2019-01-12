@@ -42,6 +42,7 @@
 (^|\.)xiami\.com$
 (^|\.)xiami\.net$
 (^|\.)youku\.com$
+(^|\.)alicdn\.com$
 
 # TaoBao
 (^|\.)taobao\.com$
