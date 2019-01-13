@@ -1,30 +1,26 @@
 # Shadowsocks ingress rules
 
 
-## Usage
+## Setup Guide
 
-### ShadowsocksX-NG-R: 
+### for macOS: ShadowsocksX-NG-R: 
+https://github.com/qinyuhang/ShadowsocksX-NG-R
  - Hit paper plane 
- - Advance Preference, change `ACL Back China URL` to the follow url
+ - Advance Preference, change `ACL White List URL` to the follow url
  - `https://raw.githubusercontent.com/ericliu03/ShadowrocketIngressRoles/master/ssr_ingress_rules.acl`
- - Hit paper plane again -> `Proxy Back China` -> `Proxy Back China`
+ - Hit paper plane again -> `White List Mode`
 
-###for shadow rocket: 
+###for iOS: shadow rocket: 
+https://liguangming.com/Shadowrocket
  - use following url as rule source
  - `https://raw.githubusercontent.com/ericliu03/ShadowrocketIngressRoles/master/sr_ingress_rules.conf`
 
-## Shadowsocks Clients 
-
-ShadowsocksR:
-- Mac: https://github.com/qinyuhang/ShadowsocksX-NG-R
-- Windows: https://github.com/shadowsocksrr/shadowsocksr-csharp
-
-Shadowsocks:
-- https://shadowsocks.org/en/download/clients.html
-
-iOS:
-ShadowRocket: https://liguangming.com/Shadowrocket
-
+### for Windows: shadowsocks
+https://github.com/shadowsocks/shadowsocks-windows/releases
+- right click paper plane
+- PAC -> use online PAC
+- edit online pac url to 
+- `https://raw.githubusercontent.com/ericliu03/ShadowrocketIngressRoles/master/ss_ingress_pac.pac`
 
 
 ## Reference Rules:
