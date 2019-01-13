@@ -18,8 +18,8 @@ https://liguangming.com/Shadowrocket
 ### for Windows: shadowsocks
 https://github.com/shadowsocks/shadowsocks-windows/releases
 - right click paper plane
-- PAC -> use online PAC
-- edit online pac url to 
+- PAC -> use local PAC
+- edit local pac, copy content from following file
 - `https://raw.githubusercontent.com/ericliu03/ShadowrocketIngressRoles/master/ss_ingress_pac.pac`
 
 
