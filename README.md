@@ -10,7 +10,7 @@ https://github.com/qinyuhang/ShadowsocksX-NG-R
  - `https://raw.githubusercontent.com/ericliu03/ShadowrocketIngressRoles/master/ssr_ingress_rules.acl`
  - Hit paper plane again -> `White List Mode`
 
-###for iOS: shadow rocket: 
+### for iOS: shadow rocket: 
 https://liguangming.com/Shadowrocket
  - use following url as rule source
  - `https://raw.githubusercontent.com/ericliu03/ShadowrocketIngressRoles/master/sr_ingress_rules.conf`
