@@ -42,14 +42,7 @@
 (^|\.)xiami\.com$
 (^|\.)xiami\.net$
 (^|\.)youku\.com$
-(^|\.)alicdn\.com$
-
-# TaoBao
-(^|\.)taobao\.com$
-(^|\.)taobaocdn\.com$
-(^|\.)tbcache\.com$
-(^|\.)tbcdn\.com$
-(^|\.)tmall\.com$
+(^|\.)qq\.com$
 
 
 #**********************************************************************

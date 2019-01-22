@@ -11,7 +11,7 @@ var rules = [
   ".xiami.com",
   ".xiami.net",
   ".youku.com",
-  ".alicdn.com",
+  ".qq.com",
   ".taobao.com",
   ".taobaocdn.com",
   ".tbcache.com",
